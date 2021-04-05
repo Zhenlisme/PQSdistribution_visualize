@@ -1,0 +1,24 @@
+##sequence-region KP876483.1 1 11545
+##species https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=1316453
+KP876483.1	Genbank	region	1	11545	.	+	.	ID=KP876483.1:1..11545;Dbxref=taxon:1316453;collection-date=06-Jun-2014;country=China;gbkey=Src;genome=genomic;mol_type=viral cRNA;nat-host=Channa argus;strain=Xingtan
+KP876483.1	Genbank	gene	73	1528	.	+	.	ID=gene-OI46_gp1;Name=N;gbkey=Gene;gene=N;gene_biotype=protein_coding;locus_tag=OI46_gp1
+KP876483.1	Genbank	mRNA	73	1528	.	+	.	ID=rna-OI46_gp1;Parent=gene-OI46_gp1;gbkey=mRNA;gene=N;locus_tag=OI46_gp1;product=nucleoprotein
+KP876483.1	Genbank	exon	73	1528	.	+	.	ID=exon-OI46_gp1-1;Parent=rna-OI46_gp1;gbkey=mRNA;gene=N;locus_tag=OI46_gp1;product=nucleoprotein
+KP876483.1	Genbank	CDS	101	1390	.	+	0	ID=cds-AJS15953.1;Parent=rna-OI46_gp1;Dbxref=NCBI_GP:AJS15953.1;Name=AJS15953.1;Note=nucleoprotein;gbkey=CDS;gene=N;locus_tag=OI46_gp1;product=nucleocapsid protein;protein_id=AJS15953.1
+KP876483.1	Genbank	gene	1533	2503	.	+	.	ID=gene-OI46_gp2;Name=P;gbkey=Gene;gene=P;gene_biotype=protein_coding;locus_tag=OI46_gp2
+KP876483.1	Genbank	mRNA	1533	2503	.	+	.	ID=rna-OI46_gp2;Parent=gene-OI46_gp2;gbkey=mRNA;gene=P;locus_tag=OI46_gp2;product=phosphoprotein
+KP876483.1	Genbank	exon	1533	2503	.	+	.	ID=exon-OI46_gp2-1;Parent=rna-OI46_gp2;gbkey=mRNA;gene=P;locus_tag=OI46_gp2;product=phosphoprotein
+KP876483.1	Genbank	CDS	1543	2406	.	+	0	ID=cds-AJS15954.1;Parent=rna-OI46_gp2;Dbxref=NCBI_GP:AJS15954.1;Name=AJS15954.1;gbkey=CDS;gene=P;locus_tag=OI46_gp2;product=phosphoprotein;protein_id=AJS15954.1
+KP876483.1	Genbank	gene	2508	3452	.	+	.	ID=gene-OI46_gp3;Name=M;gbkey=Gene;gene=M;gene_biotype=protein_coding;locus_tag=OI46_gp3
+KP876483.1	Genbank	mRNA	2508	3452	.	+	.	ID=rna-OI46_gp3;Parent=gene-OI46_gp3;gbkey=mRNA;gene=M;locus_tag=OI46_gp3;product=matrix protein
+KP876483.1	Genbank	exon	2508	3452	.	+	.	ID=exon-OI46_gp3-1;Parent=rna-OI46_gp3;gbkey=mRNA;gene=M;locus_tag=OI46_gp3;product=matrix protein
+KP876483.1	Genbank	CDS	2536	3162	.	+	0	ID=cds-AJS15955.1;Parent=rna-OI46_gp3;Dbxref=NCBI_GP:AJS15955.1;Name=AJS15955.1;gbkey=CDS;gene=M;locus_tag=OI46_gp3;product=matrix protein;protein_id=AJS15955.1
+KP876483.1	Genbank	gene	3456	5114	.	+	.	ID=gene-OI46_gp4;Name=G;gbkey=Gene;gene=G;gene_biotype=protein_coding;locus_tag=OI46_gp4
+KP876483.1	Genbank	mRNA	3456	5114	.	+	.	ID=rna-OI46_gp4;Parent=gene-OI46_gp4;gbkey=mRNA;gene=G;locus_tag=OI46_gp4;product=glycoprotein
+KP876483.1	Genbank	exon	3456	5114	.	+	.	ID=exon-OI46_gp4-1;Parent=rna-OI46_gp4;gbkey=mRNA;gene=G;locus_tag=OI46_gp4;product=glycoprotein
+KP876483.1	Genbank	CDS	3469	4995	.	+	0	ID=cds-AJS15956.1;Parent=rna-OI46_gp4;Dbxref=NCBI_GP:AJS15956.1;Name=AJS15956.1;gbkey=CDS;gene=G;locus_tag=OI46_gp4;product=glycoprotein;protein_id=AJS15956.1
+KP876483.1	Genbank	gene	5119	11484	.	+	.	ID=gene-OI46_gp5;Name=L;gbkey=Gene;gene=L;gene_biotype=protein_coding;locus_tag=OI46_gp5
+KP876483.1	Genbank	mRNA	5119	11484	.	+	.	ID=rna-OI46_gp5;Parent=gene-OI46_gp5;gbkey=mRNA;gene=L;locus_tag=OI46_gp5;product=RNA-dependent RNA polymerase
+KP876483.1	Genbank	exon	5119	11484	.	+	.	ID=exon-OI46_gp5-1;Parent=rna-OI46_gp5;gbkey=mRNA;gene=L;locus_tag=OI46_gp5;product=RNA-dependent RNA polymerase
+KP876483.1	Genbank	CDS	5129	11365	.	+	0	ID=cds-AJS15957.1;Parent=rna-OI46_gp5;Dbxref=NCBI_GP:AJS15957.1;Name=AJS15957.1;gbkey=CDS;gene=L;locus_tag=OI46_gp5;product=RNA-dependent RNA polymerase;protein_id=AJS15957.1
+
