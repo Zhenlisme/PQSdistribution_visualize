@@ -4,6 +4,8 @@ Run to visualize the PQS distribution and conservation in a virus genome.
 usage: main.py [-h] [-AS ALIGNED_SEQUENCE] [-a ANOTATION] [-e ELONG]
                [-grun GRUN] [-text TEXT] [-opf OPFILE]
 
+#For example: python3 main.py -AS align.fa -e 0 -a test.gff3 -grun 2 -text "aaa" -opf 123
+
 To get the location and conservation value of PQSs sequence. First-
 writtern@20210406 by Li Zhen.
 
