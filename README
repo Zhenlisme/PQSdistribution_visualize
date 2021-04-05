@@ -21,3 +21,5 @@ optional arguments:
                         Anotation to the circle plot.
   -opf OPFILE, --opfile OPFILE
                         output file name.
+
+Environment: python (version>=3.0), R (version>=3.5) and R package circlize (version 0.4.12).
