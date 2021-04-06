@@ -2,7 +2,7 @@ import argparse,os
 from inspect import getsourcefile
 from os.path import abspath
 
-parser = argparse.ArgumentParser(description="To get the location and conservation value of PQSs sequence. First-writtern@20190716 by Li Zhen.")
+parser = argparse.ArgumentParser(description="To get the location and conservation value of PQSs sequence. First-writtern@20210406 by Li Zhen.")
 parser.add_argument("-AS", "--aligned_sequence", type=str,help="The aligned genome sequence.")
 parser.add_argument("-a", "--anotation", default="",type=str, help="Please input the anotation file")
 parser.add_argument("-e","--elong",default=0,type=int,help="Please type in the length of extension (nt).")
